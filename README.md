@@ -28,9 +28,9 @@ git clone https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-J
 
 ### Liste des produits, format JSON :
 
-![Web Service page](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/c0e075e2-03f4-49a9-b87c-2914c6041f5a)
+![Liste des produits, JSON](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/430e090e-678f-4fe3-b00f-ee9c020192bc)
 
 ### Affichage d'un produit spécifique (ID: 3), format JSON :
 
-![id 1 product JSON](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/037f0c85-9452-437d-90a4-1d02e278299e)
+![Produit 3, JSON](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/037f0c85-9452-437d-90a4-1d02e278299e)
 
