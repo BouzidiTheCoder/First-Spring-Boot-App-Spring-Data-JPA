@@ -8,9 +8,9 @@ git clone https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-J
 
 # Configuration du Projet :
 
-Le projet a été créé en utilisant Spring Initializr avec les dépendances JPA, H2, Spring Web et Lombok.
+#### Le projet a été créé en utilisant Spring Initializr avec les dépendances JPA, H2, Spring Web et Lombok.
 
-L'unité de persistance est configurée dans le fichier application.properties.
+#### L'unité de persistance est configurée dans le fichier application.properties.
 
 # Structure du Projet :
 
@@ -22,7 +22,7 @@ L'unité de persistance est configurée dans le fichier application.properties.
 
 ![H2 Console](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/b2bbbace-ecef-43ad-b031-cc323e573b1d)
 
-### La table "Product" dans phpMyAdmin :
+### La table "Product" dans phpMyAdmin, après la migration de la base de données de H2 vers MySQL :
 
 ![MYSQL Table](https://github.com/BouzidiTheCoder/First-Spring-Boot-App-Spring-Data-JPA/assets/134173504/3adf3e91-1bb3-4f14-878f-480770e8cc34)
 
