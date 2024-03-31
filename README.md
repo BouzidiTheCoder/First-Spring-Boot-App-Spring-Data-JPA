@@ -1,4 +1,4 @@
-# Activité Pratique N° 2 : ORM JPA Hibernate Spring Data
+# Activité Pratique N° 2 : ORM JPA Hibernate Spring Data :
 
 ### Ce projet est réalisé dans le cadre de l'Activité Pratique N° 2 sur ORM JPA Hibernate Spring Data.
 
